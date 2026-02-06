@@ -1,6 +1,6 @@
 # # Klasifikacija medicinskih slika dubokim konvolucijskim mrežama
 
-Projekt iz kolegija Računalni vid
+Projekt iz kolegija Računalni vid.
 
 U radu je implementirana klasifikacija rendgenskih (X-ray) snimaka pluća
 pomoću konvolucijskih neuronskih mreža (CNN), uz korištenje transfer learning
